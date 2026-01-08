@@ -1,5 +1,23 @@
-## Hi there 👋
+## 🚀 Hi there 👋
 
+💻 I'm ***Collappo***, young beginner dev from Poland 
+
+## 🌱 Working at
+ - 📚 Tutor Assistant
+ - 💸 [Christmas calls Assistant](https://collappo.github.io/Christmas-Calls-Assistant/)
+
+## 🧑‍💻 Skills
+- 🐼 Pandas
+- ⚛️ React
+- 🌳 Node.js
+
+## 👅 Languages
+ - 🐍 **Python**
+ - 🟨 **JavaScript**
+ - 🤏Some:
+   - 🪟 C#
+   - ☕ Java
+   - 🔍 SQL
 <!--
 **Collappo/Collappo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
