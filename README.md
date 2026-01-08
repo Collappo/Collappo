@@ -1,7 +1,8 @@
 ## 🚀 Hi there 👋
 
 💻 I'm ***Collappo***, young beginner dev from Poland :D
-I'm into simply console projects at Python and practical webs ✨
+
+I'm into simple console projects at Python and practical webs for everyday use ✨
 
 ## 🌱 Working at
  - 📚 Tutor Assistant
