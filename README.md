@@ -13,6 +13,7 @@ I'm into making simple console projects at Python and practical webs for everyda
 - ⚛️ React
 - 🌳 Node.js
 - ⚡ Supabase
+- 💨 Tailwind CSS
 
 ## 👅 Languages
  - 🐍 **Python**
