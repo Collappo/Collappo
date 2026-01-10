@@ -2,7 +2,7 @@
 
 💻 I'm ***Collappo***, young beginner dev from Poland :D
 
-I'm into making simple console projects at Python and practical webs for everyday use ✨
+I'm into making simple console projects at Python and practical webs for everyday use with AI ✨
 
 ## 🌱 Working at
  - 📚 [Tutor Assistant](https://collappo.github.io/Tutor-Assistant/)
