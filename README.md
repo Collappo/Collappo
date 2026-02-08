@@ -5,6 +5,7 @@
 I'm into making simple console projects at Python and practical webs for everyday use with AI ✨
 
 ## 🌱 Working at
+ - 🎮 Controller Indicator
  - 👛 ClassTreasurer Assistant
  - 📚 [Tutor Assistant](https://collappo.github.io/Tutor-Assistant/)
 
