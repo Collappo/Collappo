@@ -1,9 +1,8 @@
 ## 🚀 Hi there 👋
 
 💻 I'm ***Collappo***, young beginner dev from Poland :D
- - https://collappo.github.io/Collappo/
-
 I'm into making simple console projects at Python and practical webs for everyday use with AI ✨
+ - https://collappo.github.io/Collappo/
 
 ## 🌱 Working at
  - 🎮 [Controller Indicator](https://github.com/Collappo/Controller-Indicator)
