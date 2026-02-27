@@ -4,6 +4,7 @@
  - https://collappo.github.io/Collappo/
 
 ## 🌱 Working at
+ - 👅 LanGoo
  - 🎮 [Controller Indicator](https://github.com/Collappo/Controller-Indicator)
  - 👛 [ClassTreasurer Assistant](https://collappo.github.io/Skarbnik-Klasowy-Test/)
 
