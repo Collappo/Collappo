@@ -3,11 +3,6 @@
 💻 I'm ***Collappo***, young beginner dev from Poland :D I'm into making simple console projects at Python and practical webs for everyday use with AI ✨
  - https://collappo.github.io/Collappo/
 
-## 🌱 Working at
- - 👅 [LanGoo](https://collappo.github.io/LanGoo/)
- - 🎮 [Controller Indicator](https://github.com/Collappo/Controller-Indicator)
- - 👛 [ClassTreasurer Assistant](https://collappo.github.io/Skarbnik-Klasowy-Test/)
-
 ## 🧑‍💻 Skills
 - 🐼 Pandas
 - ⚛️ React
