@@ -5,6 +5,7 @@
 
 ## 🧑‍💻 I develop
 - 🖥️ ***CLI***
+- 🔣 ***TUI***
 - ⚛️ ***Web Apps***
 
 ## 👅 Languages
